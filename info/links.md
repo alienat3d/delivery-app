@@ -2,3 +2,4 @@
 - [Статья про линтинг коммитов](https://habr.com/ru/companies/yandex/articles/431432/)
 - [Урок 1. Зависимости, commitlint, commitizen.html.txt](https://fs21.getcourse.ru/fileservice/file/download/a/12250/sc/190/h/3f2d0be800ffe92b278a408b194f435b.txt)
 - [Урок 1.zip](https://fs20.getcourse.ru/fileservice/file/download/a/12250/sc/309/h/eedee08eb968b9e1bd3f5b5046764e38.zip)
+- [Статья по CZ-customizable](https://yamadharma.github.io/ru/post/2021/01/16/semantic-versioning-conventional-changelog/)
