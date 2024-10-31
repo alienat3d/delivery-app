@@ -1,0 +1,4 @@
+- [Макет проекта Delivery App](https://www.figma.com/file/GHuPtYZXwcJaePe8IwjSAm/DeliveryApp?node-id=0%3A1&mode=dev)
+- [Статья про линтинг коммитов](https://habr.com/ru/companies/yandex/articles/431432/)
+- [Урок 1. Зависимости, commitlint, commitizen.html.txt](https://fs21.getcourse.ru/fileservice/file/download/a/12250/sc/190/h/3f2d0be800ffe92b278a408b194f435b.txt)
+- [Урок 1.zip](https://fs20.getcourse.ru/fileservice/file/download/a/12250/sc/309/h/eedee08eb968b9e1bd3f5b5046764e38.zip)
